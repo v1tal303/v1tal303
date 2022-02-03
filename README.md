@@ -2,6 +2,12 @@
 <img src="https://github.com/v1tal303/v1tal303/blob/main/images/banner.png" />
 
 <p align="center">
+ 
+ <p align="left">
+ 
+ <img src="https://komarev.com/ghpvc/?username=v1tal303"/> 
+
+</p>
 
 <h2 align="center">Technology Stack </h2>
 <p align="center">
