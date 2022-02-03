@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![MasterHead](your image link)](your GitHub link)
+
 <!--
 **v1tal303/v1tal303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +20,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1tal303&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=v1tal303&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=v1tal303)](https://git.io/streak-stats)
+
