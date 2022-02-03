@@ -9,8 +9,8 @@
 
 </p>
 
-<h2 align="center">Technology Stack </h2>
-<p align="center">
+<h2 align="left">Technology Stack </h2>
+<p align="left">
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
