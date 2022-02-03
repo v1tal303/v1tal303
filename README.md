@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![VitaL GitHub stats](https://github-readme-stats.vercel.app/api?username=v1tal303)](https://github.com/anuraghazra/github-readme-stats)
+
+![Vital GitHub stats](https://github-readme-stats.vercel.app/api?username=v1tal303&hide=contribs,prs)
