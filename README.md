@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1tal303&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=v1tal303&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=v1tal303&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
