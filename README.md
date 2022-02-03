@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](your image link)](your GitHub link)
+[![MasterHead](https://giphy.com/embed/rzeWnbH8Uc5Y4)](your GitHub link)
 
 <!--
 **v1tal303/v1tal303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
