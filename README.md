@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Vital GitHub stats](https://github-readme-stats.vercel.app/api?username=v1tal303&show_icons=true&theme=radical&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1tal303&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1tal303&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
