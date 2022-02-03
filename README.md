@@ -6,6 +6,8 @@
  <p align="left">
  
  <img src="https://komarev.com/ghpvc/?username=v1tal303"/> 
+  <a href="https://www.linkedin.com/in/vitaldukm/">
+ <img src="https://img.shields.io/badge/-vitaldukm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitaldukm/"/>
 
 </p>
 
