@@ -1,10 +1,10 @@
-### Hi there 👋
-
 </p align="center">
 <img src="https://github.com/v1tal303/v1tal303/blob/main/images/banner.png" />
 
 <p align="center">
 
+  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--
 **v1tal303/v1tal303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
