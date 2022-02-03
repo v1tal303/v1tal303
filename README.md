@@ -14,6 +14,12 @@
   <img height="200em" width="340em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=v1tal303&layout=compact&theme=react&hide=css" /><img height="200em" width="465em" src = "http://github-readme-streak-stats.herokuapp.com?user=v1tal303&theme=react&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
+<p>
+
+  <img height="200em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1tal303&layout=compact&theme=react&hide=css9"/>
+  <img height="200em" width="465em" src="http://github-readme-streak-stats.herokuapp.com?user=v1tal303&theme=react&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
   
 
 <h2 align="left">Technology Stack </h2>
