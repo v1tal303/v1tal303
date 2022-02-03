@@ -4,12 +4,22 @@
 <p align="center">
  
  <p align="left">
- 
- <img src="https://komarev.com/ghpvc/?username=v1tal303"/> 
+  <img src="https://komarev.com/ghpvc/?username=v1tal303"/> 
   <a href="https://www.linkedin.com/in/vitaldukm/">
  <img src="https://img.shields.io/badge/-vitaldukm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitaldukm/"/>
-
 </p>
+  
+<h2 align="left">My Stats </h2>
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=v1tal303&layout=compact&theme=react">
+  <img src = "http://github-readme-streak-stats.herokuapp.com?user=v1tal303&theme=react&date_format=M%20j%5B%2C%20Y%5D">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-stats.vercel.app/api?username=v1tal303&show_icons=true&theme=react&hide=contribs,prs" />
+</p> 
+  
+  
 
 <h2 align="left">Technology Stack </h2>
 <p align="left">
