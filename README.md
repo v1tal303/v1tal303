@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![MasterHead](https://imgur.com/igzDT07)](https://github.com/v1tal303)
+</p align="center">
+<img src="https://github.com/v1tal303/v1tal303/blob/main/images/banner.png" />
 
-
+<p align="center">
 
 <!--
 **v1tal303/v1tal303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
