@@ -5,7 +5,7 @@
 
 <h2 align="center">Technology Stack </h2>
 <p align="center">
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </p>
 <!--
 **v1tal303/v1tal303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
