@@ -11,13 +11,8 @@
   
 <h2 align="left">My Stats </h2>
 <p>
-  <img height="200em" width="340em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=v1tal303&layout=compact&theme=react&hide=css" /><img height="200em" width="465em" src = "http://github-readme-streak-stats.herokuapp.com?user=v1tal303&theme=react&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<p>
-  <!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=v1tal303&show_icons=true&hide_border=true&&count_private=true&theme=chartreuse-dark" />-->
-  <img height="200em" width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1tal303&layout=compact&theme=react&hide=css9"/>
-  <img height="200em" width="465em" src="http://github-readme-streak-stats.herokuapp.com?user=v1tal303&theme=react&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="200em" width="340em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=v1tal303&layout=compact&theme=react&hide=css" />
+ <img height="200em" width="465em" src = "http://github-readme-streak-stats.herokuapp.com?user=v1tal303&theme=react&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
   
