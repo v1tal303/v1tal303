@@ -1,7 +1,7 @@
-</p align="center">
+<!-- </p align="center">
 <img src="https://github.com/v1tal303/v1tal303/blob/main/images/banner.png" />
 
-<p align="center">
+<p align="center"> -->
  
  <p align="left">
   <img src="https://komarev.com/ghpvc/?username=v1tal303"/> 
